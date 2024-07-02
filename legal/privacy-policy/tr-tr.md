@@ -36,7 +36,7 @@ Sci-Hook Hizmetleri'ni kullanırken, sizden bazı kişisel veriler ("Kişisel Ve
 + Sci-Hook Hesabınıza Bağlı Servisler: Hesabınız ile bir üçüncü taraf hizmeti etkileşime geçirdiğinizde, bu üçüncü taraf hizmete bağlı hesabınızın ayarları hakkında adınız ve e-posta adresiniz gibi belirli bilgileri toplayabiliriz. Ayrıca, Sci-Hook'a bağlı diğer sistemlerdeki hesaplarınız hakkında da veriler toplarız.
 + Halka Açık Kaynaklar: Hakkınızda, halka açık olan kaynaklardan veriler toplayabiliriz.
 
-## Kişisel Verilerin İşlenmesi ve Kullanımı
+## Kişisel Veriler'in İşlenmesi ve Kullanımı
 
 Topladığımız Kişisel Veriler, Sci-Hook Hizmetleri'ni nasıl ve hangi durumlarda, hangi erişim yöntemleri ile (internet sitesi, mobil uygulama, masaüstü uygulaması) kullandığınıza bağlı olarak değişmektedir. Bu bölüm, Sci-Hook'un toplamış olduğu bu bilgileri nasıl işlediği bütün potansiyel yöntemler hakkında detay vermeyi hedeflemektedir.
 
