@@ -94,7 +94,7 @@ Bu Gizlilik Politikası'nın farklı dillerde çevirileri bulunabilir. Bu çevir
 
 Bu Gizlilik Politikası hakkında sorularınız varsa lütfen Sci-Hook ile iletişime geçin. Sci-Hook ile iletişime geçmek için aşağıda belirtilmiş olan iletişim bilgilerini kullanabilirsiniz.
 
-+ Sci-Hook Organizasyonu Hukuk Birimi: legal[at]scihook[nokta]org
+Sci-Hook Organizasyonu Hukuk Birimi: legal[at]scihook[nokta]org
 
 Yasal adresimiz:
 
