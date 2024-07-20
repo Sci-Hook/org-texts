@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Güncelleme: 2 Temmuz 2024
+Güncelleme: 20 Temmuz 2024
 
 Yürürlük: 21 Temmuz 2024
 
