@@ -49,3 +49,53 @@ The Personal Data we collect varies depending on how and in what circumstances y
 + Business Operations: We use Personal Data for activities such as invoicing, accounting and pricing. This includes generating aggregated statistical data for internal reporting, financial reporting, revenue planning, capacity planning and forecast modeling (including product strategy).
 + Ongoing Service Performance: Personal Data helps us keep the Sci-Hook Services up to date and performing and meet user needs for efficiency, reliability, effectiveness, quality, privacy, accessibility and security.
 + Complying with Legal Obligations and Resolving Legal Issues: Personal Data may be processed to help Sci-Hook comply with its legal obligations, to hold Sci-Hook accountable in a court of law, and for tax purposes.
+
+Sci-Hook takes care to utilize the minimum level of data when collecting and processing Personal Data. Data that is deemed unnecessary for the sustainability and quality of the systems is not collected and processed.
+
+## Sharing of Personal Data
+
+We process and share Personal Data only as set out in this Privacy Policy. With whom and how Personal Data is shared is set out below. We ask for your explicit consent to share your sensitive personal information (personal information such as confidential medical information, ethnicity, sexual orientation).
+
++ Abuse and Fraud Prevention Organizations: We may disclose Personal Data to these organizations based on a good faith belief that disclosure is necessary to prevent fraud, abuse, or attacks on the Sci-Hook Services or to protect the security of Sci-Hook and our users.
++ Competent Authorities: We may disclose Personal Data to authorized law enforcement, regulators, courts, or other public authorities in response to lawful requests or to protect our rights and safety. We openly disclose statistics about requests for Personal Data disclosure we have received from governments, agencies and organizations on the Sci-Hook Transparency Center and in the Sci-Hook Transparency Report. For more information, please see our Guide of Legal Requests for User Data.
++ Partners: We collaborate with third parties that provide sales, consulting, support and technical services for our services. We may share Personal Data with these official partners of Sci-Hook. These partners may not use Personal Data for any commercial purpose and may not process it for their own systems, subject to their agreements with Sci-Hook.
++ Other Systems: We may share Personal Data as necessary with other systems and projects affiliated with Sci-Hook. Personal Data may be used by these systems and projects for purposes such as creating user accounts, inferring user preferences, and communicating.
++ Our Legal Responsibilities: In order for Sci-Hook to continue to provide services in the countries where Sci-Hook is affiliated and provides services, we may share Personal Data in accordance with the legal regulations of the relevant country. In this case, the sharing of Personal Data will be for Sci-Hook to fulfill its legal obligations.
+
+## Storage and Protection of Personal Data
+
+Sci-Hook takes software, technical, organizational, strategic and physical security measures to store and protect Personal Data. With these measures, we minimize the risks of unauthorized access, alteration, disclosure, deletion or destruction of Personal Data. Sci-Hook takes the following security measures to store and protect Personal Data.
+
++ Server Security: Sci-Hook uses servers with high security standards and protected by various security measures to store and protect Personal Data. Any vulnerabilities on these servers are regularly audited and reported by Sci-Hook. For the security of the servers, Sci-Hook uses firewalls, security software and security protocols. The security policies and security certificates of the companies providing the server service are regularly audited by Sci-Hook. When any security vulnerability is detected on the servers, Sci-Hook takes the necessary security measures. These security measures may include changing and updating firewalls, making changes to security software, changing security protocols, and making changes to the server service.
++ Access Security: Access to Personal Data is provided only by authorized personnel. These personnel may use Personal Data only for the purposes determined by Sci-Hook. Personnel authorized to access Personal Data are obliged to take the necessary security measures to protect Personal Data and ensure its confidentiality. These obligations are set out in the confidentiality agreement and failure to fulfill these obligations may result in disciplinary action or termination of the agreement. Security measures for access to Personal Data are regularly audited and servers are regularly tested to prevent unauthorized access to the servers where Personal Data is hosted.
++ Software Security: Sci-Hook Services are developed with programming languages and tools that are reliable and have few vulnerabilities. It is taken into consideration that the software components used in the developed programs are regularly updated, vulnerabilities are closed and improvements are made by the providers who develop the components. Sci-Hook Services use only software components that are actively receiving bug fixes and security enhancements. These software components are updated regularly.
++ Data Transfer: The security of Personal Data is ensured by using various encryption methods when Personal Data is transferred to other providers, server changes, or Service-level system changes.
++ Encryption and Security Protocols: Personal Data is protected using secure encryption protocols when it is transferred and stored in the Sci-Hook Services. These encryption protocols ensure that Personal Data is protected from unauthorized access. In addition, user access to Sci-Hook Services is also encrypted to provide security. These encryption protocols may include protocols such as SSL, TLS, SSH, AES, RSA, HMAC.
+
+## Export and Deletion of Personal Data
+
+Sci-Hook cares about your rights regarding your Personal Data and will assist you with the decisions you wish to make. Your rights regarding the export and deletion of Personal Data are set out below.
+
++ Export of Personal Data: Sci-Hook allows you to export your Personal Data. To export your Personal Data, you can use the data export tools available on Sci-Hook Services. These tools allow you to export your Personal Data in a specific format. Because the exported Personal Data will be outside of Sci-Hook's control, Sci-Hook will not be responsible for the security and confidentiality of such data. The security and privacy of exported Personal Data will be subject to the privacy policies of the location where the exported data is stored. You may use different formats for exporting your Personal Data. The formats in which Personal Data may be exported are specified in the data export tools available on the Sci-Hook Services.
++ Deletion of Personal Data: The deletion of Personal Data on Sci-Hook occurs in conjunction with the account closure process. If you choose to close your Sci-Hook account, your Personal Data will generally be made inaccessible to others within 24 hours. However, it usually takes 30 days after account closure for Personal Data to be completely deleted. The fact that publicly available Personal Data may be viewable by search engines and various other tools is not Sci-Hook's responsibility and does not legally bind Sci-Hook. In the event that Personal Data is deleted, some Personal Data may continue to be retained in accordance with legal obligations (including requests from law enforcement authorities). Only Personal Data that is reasonably necessary is retained after account closure.
++ Updating Personal Data: Sci-Hook allows you to update your Personal Data. To update your Personal Data, you may use the data update tools available on the Sci-Hook Services. You may also contact Sci-Hook to have your Personal Data corrected and updated. If your data is inaccurate, you may submit a request to have it corrected and updated.
+
+## Changes to this Privacy Policy
+
+Sci-Hook may update this Privacy Policy from time to time. Changes to the Privacy Policy will be effective upon posting on the Sci-Hook Services. Please visit this page to see when this Privacy Policy was last updated. Your continued use of the Sci-Hook Services will be deemed acceptance of the changes to the Privacy Policy. We will notify you of any material changes to the Privacy Policy via the e-mail address you have registered with the Sci-Hook Services. 
+
+You may terminate your use of the Sci-Hook Services if you do not accept the changes to this Privacy Policy and the updates that will come into effect. Termination of use is realized through the account closure process and the process of deleting Personal Data begins.
+
+## Translations of this Privacy Policy
+
+Translations of this Privacy Policy may be available in different languages. These translations will be posted on the page where Sci-Hook makes the Privacy Policy available. In the event of a conflict between translations of this Privacy Policy in different languages, the original English version will prevail.
+
+## Contact
+
+If you have any questions about this Privacy Policy, please contact Sci-Hook. You may use the contact information below to contact Sci-Hook.
+
+Sci-Hook Organization Legal Department: legal[at]scihook[dot]org
+
+Our legal address:
+
+Sci-Hook Organization. Yenimahalle, Ankara, Turkey.
