@@ -2,7 +2,7 @@
 
 Güncelleme: 2 Temmuz 2024
 
-Yürürlük: 18 Temmuz 2024
+Yürürlük: 21 Temmuz 2024
 
 Sci-Hook Hizmetleri'nden faydalanarak verilerinizi bizimle paylaşma konusunda bize güvenirsiniz. Verilerinizin gizliliğinin ve korunmasının çok büyük ve önemli bir sorumluluk olduğunu bildiğimiz için verilerinizi korumak ve kontrolün sizde kalmasını sağlamak için çok çaba gösteririz.
 
