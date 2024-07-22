@@ -1,5 +1,9 @@
 # Kullanım Koşulları
 
+Güncelleme: 23 Temmuz 2024
+
+Yürürlük: 23 Temmuz 2024
+
 Sci-Hook'u kullandığınız için teşekkür ederiz! Sci-Hook Hizmetleri'ne erişmeden veya kullanmadan önce lütfen işbu Kullanım Koşulları'nı dikkatlice okuyunuz. Bu Kullanım Koşulları ("Kullanım Şartları", "Hizmet Şartları", "Servis Koşulları", "Kullanıcı Sözleşmesi"), Sci-Hook Hizmetleri'ne erişiminiz ve kullanımınız için geçerli olan yasal bir sözleşmedir. Bu yasal sözleşmenin amacı, Sci-Hook Hizmetleri'ni kullanırken karşılıklı haklarınızı ve yükümlülüklerinizi belirlemektir.
 
 Size kolaylık sağlamak amacıyla, Sci-Hook Hizmetleri'ne erişiminiz ve kullanımınız sırasında, Sci-Hook Hizmetleri'ne ilişkin bazı hükümleri özetlemektedir. Bu özetler, işbu Kullanım Koşulları'nın bir parçası değildir ve işbu Kullanım Koşulları'nın yerine geçmez. Sci-Hook Hizmetleri'ne erişiminiz ve kullanımınız sırasında, işbu Kullanım Koşulları'nın tüm hükümlerine uymayı kabul etmiş olursunuz. Bu sebeple, her bölümün başında bulunan özetleri sadece bir rehber olarak kabul ediniz. Yasal olarak bağlayıcı olan hükümler, işbu Kullanım Koşulları'nın kendisinde yer almaktadır.
