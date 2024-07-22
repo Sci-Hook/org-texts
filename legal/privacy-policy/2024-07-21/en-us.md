@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Update: July 20, 2024
+Update: July 23, 2024
 
-Effective: July 21, 2024
+Effective: July 23, 2024
 
 By utilizing the Sci-Hook Services, you trust us to share your data with us. Because we recognize that the privacy and protection of your data is a huge and important responsibility, we go to great lengths to protect your data and keep you in control.
 
@@ -82,7 +82,7 @@ Sci-Hook cares about your rights regarding your Personal Data and will assist yo
 
 ## Changes to this Privacy Policy
 
-Sci-Hook may update this Privacy Policy from time to time. Changes to the Privacy Policy will be effective upon posting on the Sci-Hook Services. Please visit this page to see when this Privacy Policy was last updated. Your continued use of the Sci-Hook Services will be deemed acceptance of the changes to the Privacy Policy. We will notify you of any material changes to the Privacy Policy via the e-mail address you have registered with the Sci-Hook Services. 
+Sci-Hook may update this Privacy Policy from time to time. Changes to the Privacy Policy will be effective upon posting on the Sci-Hook Services. Please visit [this page](https://policies.scihook.org/privacy-policy) to see when this Privacy Policy was last updated. Your continued use of the Sci-Hook Services will be deemed acceptance of the changes to the Privacy Policy. We will notify you of any material changes to the Privacy Policy via the e-mail address you have registered with the Sci-Hook Services. 
 
 You may terminate your use of the Sci-Hook Services if you do not accept the changes to this Privacy Policy and the updates that will come into effect. Termination of use is realized through the account closure process and the process of deleting Personal Data begins.
 
