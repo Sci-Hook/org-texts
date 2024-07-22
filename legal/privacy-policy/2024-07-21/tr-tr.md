@@ -1,8 +1,8 @@
 # Gizlilik Politikası
 
-Güncelleme: 20 Temmuz 2024
+Güncelleme: 23 Temmuz 2024
 
-Yürürlük: 21 Temmuz 2024
+Yürürlük: 23 Temmuz 2024
 
 Sci-Hook Hizmetleri'nden faydalanarak verilerinizi bizimle paylaşma konusunda bize güvenirsiniz. Verilerinizin gizliliğinin ve korunmasının çok büyük ve önemli bir sorumluluk olduğunu bildiğimiz için verilerinizi korumak ve kontrolün sizde kalmasını sağlamak için çok çaba gösteririz.
 
@@ -82,7 +82,7 @@ Sci-Hook, tarafınıza ait olan Kişisel Veriler hakkında haklarınızı önems
 
 ## Bu Gizlilik Politikası'ndaki Değişiklikler
 
-Sci-Hook, bu Gizlilik Politikası'nı zaman zaman güncelleyebilir. Gizlilik Politikası'ndaki değişiklikler, Sci-Hook Hizmetleri'nde yayınlanarak yürürlüğe girer. Bu Gizlilik Politikası'nın en son ne zaman güncellendiğini görmek için lütfen bu sayfayı ziyaret edin. Gizlilik Politikası'ndaki değişiklikler, Sci-Hook Hizmetleri'ni kullanmaya devam etmeniz durumunda kabul edilmiş sayılır. Gizlilik Politikası'nda yapılacak önemli değişiklikleri sizlere, Sci-Hook Hizmetleri'ne kayıtlı e-posta adresiniz aracılığıyla bildireceğiz. 
+Sci-Hook, bu Gizlilik Politikası'nı zaman zaman güncelleyebilir. Gizlilik Politikası'ndaki değişiklikler, Sci-Hook Hizmetleri'nde yayınlanarak yürürlüğe girer. Bu Gizlilik Politikası'nın en son ne zaman güncellendiğini görmek için lütfen [bu sayfayı](https://policies.scihook.org/privacy-policy) ziyaret edin. Gizlilik Politikası'ndaki değişiklikler, Sci-Hook Hizmetleri'ni kullanmaya devam etmeniz durumunda kabul edilmiş sayılır. Gizlilik Politikası'nda yapılacak önemli değişiklikleri sizlere, Sci-Hook Hizmetleri'ne kayıtlı e-posta adresiniz aracılığıyla bildireceğiz. 
 
 Bu Gizlilik Politikası'nda yapılacak değişiklikler ile yürürlüğe girecek olan güncellemeleri kabul etmemeniz durumunda Sci-Hook Hizmetleri'ni kullanımınızı sonlandırabilirsiniz. Kullanım sonlandırması, hesap kapatma işlemi ile gerçekleşir ve Kişisel Veriler'in silinmesi süreci başlar.
 
