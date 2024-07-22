@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Update: July 23, 2024
+Update: July 21, 2024
 
-Effective: July 23, 2024
+Effective: July 21, 2024
 
 By utilizing the Sci-Hook Services, you trust us to share your data with us. Because we recognize that the privacy and protection of your data is a huge and important responsibility, we go to great lengths to protect your data and keep you in control.
 
