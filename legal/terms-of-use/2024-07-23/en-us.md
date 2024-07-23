@@ -20,7 +20,7 @@ Summary: This section sets out the meaning of certain terms used throughout the 
 
 1.4. The term “these Terms of Use” refers to this agreement governing the terms of access to and use of the Sci-Hook Services. These Terms of Use are binding on all Users who access and/or use the Sci-Hook Services.
 
-1.5. The term “Privacy Policy” refers to the document that governs Sci-Hook's privacy practices and policies. The Privacy Policy applies to all Users who access and/or use the Sci-Hook Services. The [Applicable Privacy Policy](https://policies.scihook.org/privacy-policy) is available on Sci-Hook's website.
+1.5. The term “Privacy Policy” refers to the document that governs Sci-Hook's privacy practices and policies. The Privacy Policy applies to all Users who access and/or use the Sci-Hook Services. The [Privacy Policy](https://policies.scihook.org/privacy-policy) is available on Sci-Hook's website.
 
 1.6. The term “Parties” refers to Sci-Hook and the User who are parties to these Terms of Use. Sci-Hook and the User agree to be bound by these Terms of Use.
 
