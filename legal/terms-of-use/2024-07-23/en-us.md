@@ -71,3 +71,41 @@ Summary: This section establishes that Sci-Hook's trademarks and copyrights must
 Summary: This section sets forth the cancellation and termination terms for Personal Accounts and Organization Accounts. Sci-Hook reserves the right to suspend, cancel or terminate User's access to and use of the Sci-Hook Services at any time, without giving any reason.
 
 4.1. Sci-Hook reserves the right to suspend, cancel or terminate User's access to and use of the Sci-Hook Services at any time, without giving any reason. Sci-Hook is under no obligation to notify the User of its decision to suspend, cancel or terminate the User's access to and use of the Sci-Hook Services. However, Sci-Hook is committed to notifying the User of its decision to suspend, cancel or terminate the User's access to and use of the Sci-Hook Services. Therefore, except in exceptional circumstances, Sci-Hook will endeavor to notify the User.
+
+4.2. The User has the right to permanently close their account at any time. These rights of the User are set forth in the [Sci-Hook Privacy Policy](https://policies.scihook.org/privacy-policy). All account closure requests by the User will be subject to the Sci-Hook Privacy Policy.
+
+## 5. Communications with Sci-Hook
+
+Summary: This section sets out the methods for communicating with Sci-Hook. Users may only communicate with Sci-Hook in the ways and by the methods described below.
+
+5.1. Persons wishing to communicate with Sci-Hook may communicate through written methods. Sci-Hook does not accept requests to communicate via telephone or other communication methods. Persons wishing to communicate with Sci-Hook may communicate by using the communication tools on Sci-Hook's website or by sending an e-mail to Sci-Hook's contact e-mail address.
+
+5.2. Legal claims must be made in writing. Legal claims made through the Sci-Hook Support System will not be considered valid. Any legal requirements and notice to Sci-Hook of such requirements must be provided in writing to Sci-Hook's legal representative.
+
+## 6. Changes to these Terms of Use
+
+Summary: This section sets forth modifications to these Terms of Use. Sci-Hook reserves the right to change these Terms of Use at any time. When Sci-Hook modifies these Terms of Use, Sci-Hook will provide notice to the User to make the changes effective. If the User does not agree to the changes to these Terms of Use, the User may discontinue use of the Sci-Hook Services.
+
+6.1. Sci-Hook may update these Terms of Use from time to time. Changes to the Terms of Use will be effective upon posting on the Sci-Hook Services. Please visit [this page](https://policies.scihook.org/terms-of-use) to see when these Terms of Use were last updated. Changes to the Terms of Use will be deemed accepted if you continue to use the Sci-Hook Services. We will notify you of any material changes to the Terms of Use via the e-mail address you have registered with the Sci-Hook Services.
+
+6.2. You may terminate your use of the Sci-Hook Services if you do not agree to any changes or updates to these Terms of Use. Termination of use is realized through account closure and the process of deletion of Personal Data begins.
+
+## 7. Translations of these Terms of Use
+
+7.1. There may be translations of these Terms of Use in different languages. These translations will be posted on the page where Sci-Hook makes the Terms of Use available. In the event of a conflict between translations of these Terms of Use in different languages, the original English version text will prevail.
+
+## 8. Governing Law and Dispute Resolution
+
+8.1. These Terms of Use shall be governed by the laws of the Republic of Turkey. Any dispute arising out of or relating to these Terms of Use shall be governed by the laws of the Republic of Turkey. Ankara Courts and Enforcement Offices are authorized for any dispute arising out of or related to these Terms of Use.
+
+8.2. This Terms of Use agreement between Sci-Hook and you shall be governed by the laws of the Republic of Turkey without regard to its conflict of law provisions. You and Sci-Hook agree to submit to the laws of the Republic of Turkey and to the jurisdiction of the Ankara Courts and Enforcement Offices in Ankara, Turkey for any dispute arising out of or relating to these Terms of Use.
+
+## 9. İletişim
+
+If you have any questions about this Terms of Use, please contact Sci-Hook. You may use the contact information below to contact Sci-Hook.
+
+Sci-Hook Organization Legal Department: legal[at]scihook[dot]org
+
+Our legal address:
+
+Sci-Hook Organization. Yenimahalle, Ankara, Turkey.
