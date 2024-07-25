@@ -91,6 +91,10 @@ Tarayıcılara göre çerezleri yönetmek için aşağıdaki bağlantılardan fa
 + [All About Cookies](https://allaboutcookies.org/)
 + [Your Online Choices](https://youronlinechoices.eu/)
 
+## Bu Çerez Politikası'nın Çevirileri
+
+Bu Çerez Politikası'nın farklı dillerde çevirileri bulunabilir. Bu çeviriler, Sci-Hook'un Çerez Politikası'nı sunmuş olduğu sayfa üzerinden yayımlanacaktır. Bu Çerez Politikası'nın farklı dillerdeki çevirileri arasında bir çelişki olması durumunda, İngilizce dilindeki orijinal metin geçerli olacaktır.
+
 ## İletişim
 
 Bu Çerez Politikası hakkında sorularınız varsa lütfen Sci-Hook ile iletişime geçin. Sci-Hook ile iletişime geçmek için aşağıda belirtilmiş olan iletişim bilgilerini kullanabilirsiniz.
